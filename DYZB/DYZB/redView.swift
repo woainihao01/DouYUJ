@@ -9,7 +9,7 @@
 import UIKit
 
 class redView: UIView {
-
+    var name : String = "jrx"
     /*
     // Only override draw() if you perform custom drawing.
     // An empty implementation adversely affects performance during animation.
